@@ -80,6 +80,6 @@ Pagination and search
 Result analytics
 Email notifications
 
-👨‍💻 Author
-Abhishek Patil
+👨‍💻 Author: 
+Abhishek Patil, 
 Tejas Patil
